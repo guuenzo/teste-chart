@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-09-19T16:08:19.60615243-03:00"
+entries:
+  worldskills-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-09-19T17:11:53.646449042-03:00"
+    description: Helm chart para o desafio Blue/Green + Canary
+    digest: 476b970289894e5efaa3547eb4d370daf1da78d43c9114a608e9134a2c26907f
+    name: worldskills-chart
+    type: application
+    urls:
+    - https://guuenzo.github.io/teste-chart/worldskills-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-19T17:11:53.638574696-03:00"
